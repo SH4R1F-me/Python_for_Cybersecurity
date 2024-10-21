@@ -2,13 +2,11 @@
 
 import socket
 
-...
 #import pyfiglet
 
 # Display banner using pyfiglet
 #banner = pyfiglet.figlet_format("Domain to IP Converter")
 #print(banner)
-    ...
 
 # Input domain name
 domain_name = input("Enter your target domain: ")
